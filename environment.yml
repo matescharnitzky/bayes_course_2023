@@ -1,0 +1,28 @@
+name: bayes_course
+
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipython
+  - ipywidgets
+  - jax
+  - jaxlib
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - lxml
+  - matplotlib
+  - numba
+  - numpy
+  - pandas
+  - patsy
+  - pip
+  - pymc
+  - pydot
+  - python-graphviz
+  - scikit-learn
+  - scipy
+  - seaborn
+  - setuptools
+  - xlrd
