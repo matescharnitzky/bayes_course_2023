@@ -38,14 +38,14 @@ The course comprises six two-hour modules of videoconference lectures, along wit
 
 ### Wednesday, May 31
 
-**Introduction to Bayesian Models and PyMC** 09:30 – 13:30 ET / 15:30-19:30 CET
+**Introduction to Bayesian Models and PyMC** 
 - The anatomy of a Bayesian model
 - Probability density functions, inverse CDF sampling
 - Bayesian comuptation and approximations
 - The PyMC API
-- Motivation and case studies
+- PyTensor
 
-**Markov chain Monte Carlo** 09:30 – 13:30 ET / 15:30-19:30 CET
+**Markov chain Monte Carlo** 
 - Rejection sampling
 - MCMC basics
 - Metropolis-Hastings samplers
@@ -57,7 +57,12 @@ The course comprises six two-hour modules of videoconference lectures, along wit
   
 ### Thursday, June 1
 
-**PyMC Model Building and Model Checking** 09:30 – 13:30 ET / 15:30-19:30 CET
+**Hierarchical Models**
+- Parital pooling
+- Random effects
+- Prediction
+
+**PyMC Model Building and Model Checking** 
 - Model building in PyMC
 - Partial pooling
 - Building hierarchical models
@@ -68,7 +73,12 @@ The course comprises six two-hour modules of videoconference lectures, along wit
 
 ### Friday, June 2
 
-**The Bayesian Workflow** 09:30 – 13:30 ET / 15:30-19:30 CET
+**Non-parametric Bayes** 
+- Dirichlet processes
+- Spline models
+- Gaussian processes
+
+**The Bayesian Workflow** 
 - Prior predictive checks
 - Iterating models
 - Posterior predictive checks
